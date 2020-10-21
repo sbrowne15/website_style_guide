@@ -1,0 +1,114 @@
+body {
+    font-family: 'karla', sans-serif;
+    margin: 0 10%;
+}
+
+ .title {
+    text-align: center;
+}
+
+.container {
+    border: 2px solid #9f9c99;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    margin: 20px 5px;
+    min-height: 100px;
+}
+
+.cerulean-blue {
+    background-color: #98b4d4;
+    color: #fff;
+}
+
+.chili-pepper {
+    background-color: #9b1b30;
+    color: #fff;
+}
+
+.guacamole {
+    background-color: #797b3a;
+    color: #fff
+}
+
+.sweet-corn {
+    background-color: #f0ead6;
+    color: #000;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.volkhov {
+    font-family: 'volkhov', serif;
+}
+
+.karla {
+    font-family: 'karla', sans-serif;
+}
+
+.overpass-mono {
+    font-family: 'overpass mono', monospace;
+}
+
+.gaegu {
+    font-family: 'gaegu', cursive;
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 28px;
+    font-family: 'karla', sans-serif;
+  }
+
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'karla', sans-serif;
+  }
+
+  .text-panel p {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'volkhov', serif;
+  }
+
+  .text-panel a {
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'gaegu', cursive;
+  }
+
+  .text-panel2 p {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'overpass mono', monospace;
+  }
